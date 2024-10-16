@@ -1,0 +1,3 @@
+/home/s23380411@unn.global/ooooooo/class-10_16/build/CMakeFiles/set.dir
+/home/s23380411@unn.global/ooooooo/class-10_16/build/CMakeFiles/edit_cache.dir
+/home/s23380411@unn.global/ooooooo/class-10_16/build/CMakeFiles/rebuild_cache.dir
